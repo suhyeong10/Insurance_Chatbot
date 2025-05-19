@@ -1,0 +1,1 @@
+If your pdf file exists in the docs folder, a vector store file will be created in that folder.
