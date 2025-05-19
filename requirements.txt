@@ -1,0 +1,13 @@
+torch==2.6.0
+transformers
+tqdm
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+langchain-huggingface
+faiss
+sentence-transformers
+pypdf
+huggingface-hub
+accelerate
