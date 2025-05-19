@@ -47,13 +47,13 @@ python app.py
 
 5. Type your question to receive insurance guidance. Type `exit` to quit.
 
-💬 Example Questions
+### 💬 Example Questions
 - I'm 30 and I have lung cancer. Can I still get life insurance?
 - Can I convert my group insurance after leaving my job?
 - What are the differences between term and whole life insurance?
 - How does the accelerated death benefit rider work?
 
-⚙️ Technologies Used
+### ⚙️ Technologies Used
 - Python 3.10
 - LangChain
 - HuggingFace Transformers
@@ -61,6 +61,6 @@ python app.py
 - Ollama
 - PyTorch
 
-📝 License
+### 📝 License
 This project is freely available for research and non-commercial educational purposes.
 For commercial use, please contact the author.
